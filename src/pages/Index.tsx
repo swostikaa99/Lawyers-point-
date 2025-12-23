@@ -7,7 +7,8 @@ import Footer from "@/components/Footer";
 import Practice from "@/components/Practise";
 import Blog from "./Blog";
 import BlogConp from "@/components/BlogConp";
-import Testimonials from "./TEstimonail";
+import Testimonials from "./Testimonail";
+
 import Impacts from "./Impact";
 
 const Index = () => {
